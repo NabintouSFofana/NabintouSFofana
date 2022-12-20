@@ -10,4 +10,4 @@ NabintouSFofana/NabintouSFofana is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-node updater.js ${{ NabintouSFofana }} <atom>
+
