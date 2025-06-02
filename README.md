@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @NabintouSFofana
 - 🤓 Self taught Developer
+- 💻 Software Engineering Student
 - 👀 I’m interested in working on projects
 - 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on python project
