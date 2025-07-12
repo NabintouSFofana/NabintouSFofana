@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on python project
 - 📫 Reach me at nabintousfofana@gmail.com
-- https://nabintousfofana.github.io/portfolio_website/
+- https://nabintousfofana.github.io/my_portfolio/
 
 <!---
 NabintouSFofana/NabintouSFofana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
