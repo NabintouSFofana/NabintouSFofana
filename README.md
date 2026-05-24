@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on python project
 - 📫 Reach me at nabintousfofana@gmail.com
-- 🌐 https://nabintousfofana.github.io/my_portfolio_2025/
+- 🌐 [https://nabintousfofana.github.io/my_portfolio_2025/]
+
+https://nabintousfofana.github.io/portfolio
 - 📓 https://nabintousfofana.github.io/Mon-journal/
 
 <!---
