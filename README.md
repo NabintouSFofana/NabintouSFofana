@@ -1,48 +1,51 @@
-### Hi, I'm Nabintou 👋
+# Hi, I'm Nabintou 👋
 
-**Software Engineering student at UT Dallas (graduating Spring 2027)** and a self-taught developer who builds software that solves a real problem and ships to real users.
+**Software Engineering student at UT Dallas** (graduating Spring 2027), and a
+full-stack developer who likes shipping real things, not just coursework.
 
-I run a small natural hair brand, **Schicgirl™**, where I taught myself to build and ship an entire product end to end — storefront, admin dashboards, and an AI assistant — on my own.
+I build by hand — plain HTML/CSS/JS when it earns its keep, Java and Python
+when the problem calls for it, and real backends (Supabase, Render) when
+something needs to persist. Most of what I make starts as something I wanted
+to use myself.
 
----
+🔭 **Right now I'm:** building the product suite for Schicgirl™ — a bilingual
+(FR/EN) natural-hair brand I develop end-to-end as the full-stack engineer:
+link-in-bio hub, sales pages, admin dashboards, an AI assistant on the
+Anthropic Claude API, and diagnostic tools.
 
-### 🚀 What I've built
+🌱 **Learning:** React, deeper backend work, and how to use AI tools in a way
+that makes me a better engineer — not a lazier one. The line I hold: I should
+be able to defend every line of code I commit.
 
-- **CoilCare™ AI** — a conversational hair assistant in production on the **Anthropic Claude API**, with streaming responses, a custom prompt system, and persistent chat history. → [Schicgirl™]([YOUR-SCHICGIRL-URL])
-- **InsightFlow** — a Flask web app + Python CLI that turns a messy CSV into a clean one-page PDF report with summary stats, charts, and plain-English insights. → [Live demo](https://insightflow-t50k.onrender.com)
-- **Math Adventure** — a six-person Spring Boot course project I came back to and rebuilt solo: refactored static classes into Spring services with dependency injection, returned JSON DTOs with proper HTTP status codes, split a 635-line front-end file into 8 ES modules, and grew the test suite from 30 to 50 cases. → [Repo]([YOUR-MATH-ADVENTURE-REPO])
-- **Journal de Nabie** — a browser-based mini-CMS with a hidden admin panel: SHA-256 password hashing, a 1-hour idle session timeout, and brute-force lockout. → [Live](https://nabintousfofana.github.io/Mon-journal/)
-
----
-
-### 🛠️ Tech
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Languages:** Python · Java · JavaScript · HTML · CSS · SQL (basic)
-**Frameworks:** Flask · Spring Boot · React (learning)
-**AI:** Anthropic Claude API · Claude Code · GitHub Copilot · prompt design
-**Tools:** Git · GitHub · Render · Cloudflare · Supabase · Pandas · Matplotlib · FPDF
+💬 **Open to:** Summer 2026 internships and part-time / remote roles. Based in
+Plano, TX · US citizen · open to remote, hybrid, or relocation.
 
 ---
 
-### 🌱 Currently
-Learning React and deepening my backend and API work. Open to **SWE internships (Summer 2026)** and part-time / remote roles I can start sooner.
+### 🛠️ Toolbox
 
-### 📫 Connect
-- 🌐 Portfolio: [nabintousfofana.github.io/portfolio](https://nabintousfofana.github.io/portfolio)
-- 💼 LinkedIn: [in/nabintousfofana](https://www.linkedin.com/in/nabintousfofana)
-- 📧 Email: nabintousfofana@gmail.com
+`HTML` · `CSS` · `JavaScript` · `Python` · `Flask` · `Java` · `Spring Boot`
+`Supabase` · `Git` · `Anthropic Claude API` · `Pandas` · `Responsive Design`
+`Prompt Design` · `REST` · `Figma`
 
-<!--
-OPTIONAL: GitHub stats card. Uncomment to add.
-![Nabintou's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabintouSFofana&show_icons=true&theme=default)
--->
+### 📌 A few things I've built
+
+| Project | What it is |
+|---|---|
+| **Schicgirl™** | Full-stack dev for a bilingual natural-hair brand — 12+ live pages, AI assistant, admin dashboards, Supabase + Apps Script backends |
+| **Math Adventure** | A team Spring Boot app I returned to and rebuilt solo (DI services, JSON DTOs, ES modules) |
+| **InsightFlow** | Flask app + Python CLI that turns a messy CSV into a one-page PDF report |
+| **Journal de Nabie** | A French-language mini-CMS with a hidden admin panel (SHA-256 auth, lockout) |
+| **Caesar Cipher** | A Java cipher with an interactive web demo and SVG visualization |
+
+→ Full write-ups on my **[portfolio](https://nabintousfofana.github.io/portfolio/)**
+
+---
+
+### 📫 Find me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C4866?style=flat&logo=firefox&logoColor=white)](https://nabintousfofana.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabintousfofana)
+[![Email](https://img.shields.io/badge/Email-C89339?style=flat&logo=gmail&logoColor=white)](mailto:nabintousfofana@gmail.com)
+
+<sub>Built in Plano, TX ☕</sub>
