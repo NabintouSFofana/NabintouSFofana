@@ -14,10 +14,10 @@ link-in-bio hub, sales pages, admin dashboards, an AI assistant on the
 Anthropic Claude API, and diagnostic tools.
 
 **Learning:** React, deeper backend work, and how to use AI tools in a way
-that makes me a better engineer — not a lazier one. The line I hold: I should
+that makes me a better engineer, not a lazier one. The line I hold: I should
 be able to defend every line of code I commit.
 
-**Open to:** Summer 2026 internships and part-time / remote roles. Based in
+**Open to:** part-time / remote roles. Based in
 Plano, TX · US citizen · open to remote, hybrid, or relocation.
 
 ---
