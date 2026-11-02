@@ -1,51 +1,67 @@
-# Hi, I'm Nabintou 👋
+# 👋 Hi, I’m Nabintou S. Fofana
 
-**Software Engineering student at UT Dallas** (graduating Spring 2027), and a
-full-stack developer who likes shipping real things, not just coursework.
+🎓 **Software Engineering student at UT Dallas · Expected graduation May 2027**
 
-I build using plain HTML/CSS/JS , Java and Python
-when the problem calls for it, and real backends (Supabase, Render) when
-something needs to persist. Most of what I make starts as something I wanted
-to use myself.
+📍 Plano, Texas · 🌍 French and English
 
-**Right now I'm:** building the product suite for Schicgirl™, a bilingual
-(FR/EN) natural-hair brand I develop end-to-end as the full-stack engineer:
-link-in-bio hub, sales pages, admin dashboards, an AI assistant on the
-Anthropic Claude API, and diagnostic tools.
+I build web applications, backend features, and tools that help with studying and working with data.
 
-**Learning:** React, deeper backend work, and how to use AI tools in a way
-that makes me a better engineer, not a lazier one. The line I hold: I should
-be able to defend every line of code I commit.
+[🌐 Portfolio](https://nabintousfofana.github.io/portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/nabintousfofana) · [✉️ Email](mailto:nabintousfofana@gmail.com)
 
-**Open to:** part-time / remote roles. Based in
-Plano, TX · US citizen · open to remote, hybrid, or relocation.
+## 💻 What I’m working on
 
----
+I maintain Schicgirl’s bilingual web platform as a freelance developer and am developing NABIELA notes, a private study application.
 
-### 🛠️ Toolbox
+I’m interested in backend development, database design, and making software more reliable and easier to use.
 
-`HTML` · `CSS` · `JavaScript` · `Python` · `Flask` · `Java` · `Spring Boot`
-`Supabase` · `Git` · `Anthropic Claude API` · `Pandas` · `Responsive Design`
-`Prompt Design` · `REST` · `Figma`
+## 🚀 Selected work
 
-### 📌 A few things I've built
+### 🌿 Schicgirl
 
-| Project | What it is |
-|---|---|
-| **Schicgirl™** | Full-stack dev for a bilingual natural-hair brand — 12+ live pages, AI assistant, admin dashboards, Supabase + Apps Script backends |
-| **Math Adventure** | A team Spring Boot app I returned to and rebuilt solo (DI services, JSON DTOs, ES modules) |
-| **InsightFlow** | Flask app + Python CLI that turns a messy CSV into a one-page PDF report |
-| **Journal de Nabie** | A French-language mini-CMS with a hidden admin panel (SHA-256 auth, lockout) |
-| **Caesar Cipher** | A Java cipher with an interactive web demo and SVG visualization |
+A bilingual platform with booking tools, memberships, and private learning resources.
 
-→ Full write-ups on my **[portfolio](https://nabintousfofana.github.io/portfolio/)**
+My freelance work includes PostgreSQL access control, session recovery for returning members, and consistent French/English form data.
 
----
+**Technologies:** JavaScript, HTML/CSS, Supabase, PostgreSQL
 
-### 📫 Find me
+[Visit website](https://schicgirl.me) · [Repository](https://github.com/NabintouSFofana/schicgirl)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2C4866?style=flat&logo=firefox&logoColor=white)](https://nabintousfofana.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabintousfofana)
-[![Email](https://img.shields.io/badge/Email-C89339?style=flat&logo=gmail&logoColor=white)](mailto:nabintousfofana@gmail.com)
+### 📓 NABIELA notes
 
-<sub>Built in Plano, TX ☕</sub>
+A study notebook with course folders, editable diagrams, autosave, backup recovery, and Word export.
+
+I define the workflows, guide AI-assisted implementation, review behavior, and refine the interface.
+
+**Technologies:** JavaScript, IndexedDB, Canvas
+
+🔒 **Private product in development for a future commercial release.** Source code and app downloads are not publicly distributed.
+
+[Portfolio case study](https://nabintousfofana.github.io/portfolio/projects.html#nabiela)
+
+### 📊 InsightFlow
+
+A CSV cleaning and analysis tool with a Flask web interface and a command-line tool for PDF reports.
+
+Both interfaces reuse shared cleaning and analysis modules.
+
+**Technologies:** Python, Flask, Pandas, Matplotlib
+
+[Repository](https://github.com/NabintouSFofana/InsightFlow) · [Web app](https://insightflow-t50k.onrender.com/)
+
+### 🧩 Other work
+
+- **[Math Adventure](https://github.com/yeabtsegaASC22/Math_Website):** A Java/Spring Boot team project, followed by an independent refactor of services, API responses, and frontend modules.
+- **[TerraScape](https://github.com/NabintouSFofana/TerraScapeTeam):** A Unity team project where I contributed object placement, procedural L-system geometry, and collaboration documentation.
+
+## 🛠️ Technologies I’ve used in projects
+
+- **Languages and markup:** Java, JavaScript, Python, SQL, HTML/CSS
+- **Frameworks and data:** Spring Boot, Flask, PostgreSQL/Supabase, IndexedDB, Pandas
+- **Testing and tools:** JUnit, MockMvc, Git/GitHub, Linux terminal, Render
+- **Graphics project experience:** C#, Unity
+
+## 🤝 Let’s connect
+
+I’m open to software engineering internships and junior opportunities where I can contribute, learn from a team, and keep improving the software I build.
+
+[🌐 Explore my portfolio](https://nabintousfofana.github.io/portfolio/) · [💼 Connect on LinkedIn](https://www.linkedin.com/in/nabintousfofana) · [✉️ Get in touch](mailto:nabintousfofana@gmail.com)
