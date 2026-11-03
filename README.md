@@ -1,70 +1,51 @@
-# 👋 Hi, I’m Nabintou S. Fofana
+# Nabintou S. Fofana
 
-🎓 **Software Engineering student at UT Dallas · Expected graduation May 2027**
+Software Engineering student at The University of Texas at Dallas, graduating May 2027. I build web applications, backend features, and data tools, with a focus on backend development, database design, and software reliability.
 
-📍 Plano, Texas · 🌍 French and English
+**Open to:** remote part-time software engineering roles now, and full-time roles after graduation.  
+**Location:** Plano, Texas  
+**Languages:** English and French
 
-💼 **Open to remote part-time software engineering roles now, and full-time roles after graduation.**
+[Portfolio](https://nabintousfofana.github.io/portfolio/) | [Resume](https://nabintousfofana.github.io/portfolio/resume.html) | [LinkedIn](https://www.linkedin.com/in/nabintousfofana) | [Email](mailto:nabintousfofana@gmail.com)
 
-I build web applications, backend features, and data tools with Java, Spring Boot, Python, Flask, JavaScript, and PostgreSQL.
+## Technical Skills
 
-[🌐 Portfolio](https://nabintousfofana.github.io/portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/nabintousfofana) · [✉️ Email](mailto:nabintousfofana@gmail.com)
+| Area | Tools |
+| --- | --- |
+| Languages | Java, JavaScript, Python, SQL, HTML/CSS |
+| Frameworks and data | Spring Boot, Flask, PostgreSQL, Supabase, IndexedDB, Pandas |
+| Testing and tools | JUnit, MockMvc, Git, GitHub, Linux, Render |
+| Graphics | C#, Unity |
 
-## 💻 What I’m working on
+## Selected Projects
 
-I maintain Schicgirl’s bilingual web platform as a freelance developer and am developing NABIELA notes, a private study application.
+### Schicgirl
 
-I’m interested in backend development, database design, and making software more reliable and easier to use.
+Bilingual web platform with booking tools, memberships, and private learning resources. I develop and maintain it as a freelancer.
 
-## 🚀 Selected work
+- Implemented PostgreSQL access control and session recovery for returning members.
+- Kept form data consistent across the French and English versions.
 
-### 🌿 Schicgirl
+**Stack:** JavaScript, HTML/CSS, Supabase, PostgreSQL | [Website](https://schicgirl.me) | [Repository](https://github.com/NabintouSFofana/schicgirl)
 
-A bilingual platform with booking tools, memberships, and private learning resources.
+### InsightFlow
 
-My freelance work includes PostgreSQL access control, session recovery for returning members, and consistent French/English form data.
+CSV cleaning and analysis tool with a Flask web interface and a command-line tool for PDF reports.
 
-**Technologies:** JavaScript, HTML/CSS, Supabase, PostgreSQL
+- Built both interfaces on shared cleaning and analysis modules.
 
-[Visit website](https://schicgirl.me) · [Repository](https://github.com/NabintouSFofana/schicgirl)
+**Stack:** Python, Flask, Pandas, Matplotlib | [Web app](https://insightflow-t50k.onrender.com/) | [Repository](https://github.com/NabintouSFofana/InsightFlow)
 
-### 📓 NABIELA notes
+### NABIELA notes
 
-A study notebook with course folders, editable diagrams, autosave, backup recovery, and Word export.
+Study notebook with course folders, editable diagrams, autosave, backup recovery, and Word export. Private product in development for a future commercial release, so the source code is not public.
 
-I define the workflows, guide AI-assisted implementation, review behavior, and refine the interface.
+- Define the workflows, guide AI-assisted implementation, review behavior, and refine the interface.
 
-**Technologies:** JavaScript, IndexedDB, Canvas
+**Stack:** JavaScript, IndexedDB, Canvas | [Case study](https://nabintousfofana.github.io/portfolio/projects.html#nabiela)
 
-🔒 **Private product in development for a future commercial release.** Source code and app downloads are not publicly distributed.
+### Additional Projects
 
-[Portfolio case study](https://nabintousfofana.github.io/portfolio/projects.html#nabiela)
-
-### 📊 InsightFlow
-
-A CSV cleaning and analysis tool with a Flask web interface and a command-line tool for PDF reports.
-
-Both interfaces reuse shared cleaning and analysis modules.
-
-**Technologies:** Python, Flask, Pandas, Matplotlib
-
-[Repository](https://github.com/NabintouSFofana/InsightFlow) · [Web app](https://insightflow-t50k.onrender.com/)
-
-### 🧩 Other work
-
-- **[Math Adventure](https://github.com/yeabtsegaASC22/Math_Website):** A Java/Spring Boot team project, followed by an independent refactor of services, API responses, and frontend modules.
-- **[TerraScape](https://github.com/NabintouSFofana/TerraScapeTeam):** A Unity team project where I contributed object placement, procedural L-system geometry, and collaboration documentation.
-- **[Personal Finance Tracker](https://github.com/NabintouSFofana/Personal-Finance-Tracker):** A Java desktop app built with Swing and FlatLaf for tracking income, expenses, and a monthly savings goal. A console version shares the same calculation logic.
-
-## 🛠️ Technologies I’ve used in projects
-
-- **Languages and markup:** Java, JavaScript, Python, SQL, HTML/CSS
-- **Frameworks and data:** Spring Boot, Flask, PostgreSQL/Supabase, IndexedDB, Pandas
-- **Testing and tools:** JUnit, MockMvc, Git/GitHub, Linux terminal, Render
-- **Graphics project experience:** C#, Unity
-
-## 🤝 Let’s connect
-
-I’m open to remote part-time software engineering roles and internships now, and junior full-time roles after I graduate in May 2027. I want to contribute, learn from a team, and keep improving the software I build.
-
-[🌐 Explore my portfolio](https://nabintousfofana.github.io/portfolio/) · [💼 Connect on LinkedIn](https://www.linkedin.com/in/nabintousfofana) · [✉️ Get in touch](mailto:nabintousfofana@gmail.com)
+- **[Math Adventure](https://github.com/yeabtsegaASC22/Math_Website):** Java and Spring Boot team project, followed by an independent refactor of services, API responses, and frontend modules.
+- **[TerraScape](https://github.com/NabintouSFofana/TerraScapeTeam):** Unity team project. I contributed object placement, procedural L-system geometry, and collaboration documentation.
+- **[Personal Finance Tracker](https://github.com/NabintouSFofana/Personal-Finance-Tracker):** Java desktop app built with Swing and FlatLaf for tracking income, expenses, and a monthly savings goal.
