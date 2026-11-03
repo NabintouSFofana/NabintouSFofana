@@ -4,7 +4,9 @@
 
 📍 Plano, Texas · 🌍 French and English
 
-I build web applications, backend features, and tools that help with studying and working with data.
+💼 **Open to remote part-time software engineering roles now, and full-time roles after graduation.**
+
+I build web applications, backend features, and data tools with Java, Spring Boot, Python, Flask, JavaScript, and PostgreSQL.
 
 [🌐 Portfolio](https://nabintousfofana.github.io/portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/nabintousfofana) · [✉️ Email](mailto:nabintousfofana@gmail.com)
 
@@ -52,6 +54,7 @@ Both interfaces reuse shared cleaning and analysis modules.
 
 - **[Math Adventure](https://github.com/yeabtsegaASC22/Math_Website):** A Java/Spring Boot team project, followed by an independent refactor of services, API responses, and frontend modules.
 - **[TerraScape](https://github.com/NabintouSFofana/TerraScapeTeam):** A Unity team project where I contributed object placement, procedural L-system geometry, and collaboration documentation.
+- **[Personal Finance Tracker](https://github.com/NabintouSFofana/Personal-Finance-Tracker):** A Java desktop app built with Swing and FlatLaf for tracking income, expenses, and a monthly savings goal. A console version shares the same calculation logic.
 
 ## 🛠️ Technologies I’ve used in projects
 
@@ -62,6 +65,6 @@ Both interfaces reuse shared cleaning and analysis modules.
 
 ## 🤝 Let’s connect
 
-I’m open to software engineering internships and junior opportunities where I can contribute, learn from a team, and keep improving the software I build.
+I’m open to remote part-time software engineering roles and internships now, and junior full-time roles after I graduate in May 2027. I want to contribute, learn from a team, and keep improving the software I build.
 
 [🌐 Explore my portfolio](https://nabintousfofana.github.io/portfolio/) · [💼 Connect on LinkedIn](https://www.linkedin.com/in/nabintousfofana) · [✉️ Get in touch](mailto:nabintousfofana@gmail.com)
