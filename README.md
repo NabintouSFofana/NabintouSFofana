@@ -1,6 +1,6 @@
 # Nabintou S. Fofana
 
-Software Engineering student at The University of Texas at Dallas, graduating May 2027. I build web applications, backend features, and data tools, with a focus on backend development, database design, and software reliability.
+Software Engineering student at The University of Texas at Dallas, Class of 2027. I build web applications, backend features, and data tools, with a focus on backend development, database design, and software reliability.
 
 **Open to:** remote part-time software engineering roles now, and full-time roles after graduation.  
 **Location:** Plano, Texas  
